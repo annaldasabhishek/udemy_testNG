@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="suite">
+	<test name="test">
+		<classes>
+			   <class name="Day_1.fb_login"/>
+			   <class name="Day_1.first_test"/>
+               <class name="Day_1.Instragam_login"/>	  
+		</classes>
+	</test>
+</suite>
